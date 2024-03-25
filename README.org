@@ -1,0 +1,9 @@
+* alternate-asdf-system-connections
+
+Alternate ASDF system interconnection facility
+
+|---------+------------------------------------------------------------------------|
+| source  | git:https://github.com/digikar99/alternate-asdf-system-connections.git |
+| commit  | 7bf258b                                                                |
+| systems | alternate-asdf-system-connections                                      |
+|---------+------------------------------------------------------------------------|
